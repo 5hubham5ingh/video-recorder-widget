@@ -14,7 +14,7 @@ body {
 }
 video {
   width: 80vw;
-  max-height: 80vh;
+  max-height: 85vh;
   background: transparent;
   border: 1px solid black;
 }
