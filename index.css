@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100vh;
+  margin: 0;
+  background-color: transparent;
+}
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+video {
+  width: 80vw;
+  max-height: 80vh;
+  background: transparent;
+  border: 1px solid black;
+}
+
+button {
+  font-size: 1.2em;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #ffffff80;
+  color: black;
+}
+button:hover {
+  background-color: #00000080;
+  color: white ;
+}
+button:disabled {
+  background-color: #80808080;
+  border: none;
+  color: white;
+  cursor: not-allowed;
+}
