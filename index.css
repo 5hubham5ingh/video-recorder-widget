@@ -13,6 +13,11 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  padding: 4rem;
+  box-shadow: var(--shadow);
+  border-top: 1px solid #ffffff40;
+  border-left: 1px solid #ffffff40;
+  border-radius: inherit;
 }
 video {
   width: 80vw;
