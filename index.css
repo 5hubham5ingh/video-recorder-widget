@@ -43,5 +43,7 @@ button:hover {
 button:disabled {
   background-color: #80808036;
   color: white;
+  box-shadow: none;
+  border: none;
   cursor: not-allowed;
 }
