@@ -14,7 +14,11 @@ Available [live](https://5hubham5ingh.github.io/video-recorder-widget) as a GitH
 **Embed in Your Web Application:**
 
 ```html
-<iframe src="https://5hubham5ingh.github.io/video-recorder-widget" id="vRecorderFrame" allow="camera; microphone; display-capture"></iframe>
+<iframe
+  src="https://5hubham5ingh.github.io/video-recorder-widget"
+  allow="camera; microphone; display-capture"
+  style="background-color: gray;"
+></iframe>
 ```
 
 **Example: Embeded in [foxpanel](https://github.com/5hubham5ingh/foxpanel)**
