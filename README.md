@@ -21,7 +21,7 @@ Available [live](https://5hubham5ingh.github.io/video-recorder-widget) as a GitH
 ></iframe>
 ```
 
-**Example: Embeded in [foxpanel](https://github.com/5hubham5ingh/foxpanel)**
+**Example: Embedded in [foxpanel](https://github.com/5hubham5ingh/foxpanel)**
 
 ![2025-03-05-171225_hyprshot](https://github.com/user-attachments/assets/d4640042-3e1e-463b-9d24-a65819a69f6e)
 ![2025-03-05-171147_hyprshot](https://github.com/user-attachments/assets/0096d843-61d0-44bb-9253-6dc0ef676de9)
@@ -31,4 +31,4 @@ Available [live](https://5hubham5ingh.github.io/video-recorder-widget) as a GitH
 
 **Contribution**
 
-PRs are welcome if you find any bug or to add some new features.
+PRs are welcome if you find any bugs or to add some new features.
